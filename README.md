@@ -11,7 +11,7 @@ a series of generations. I'm more interested in exploring ways to look from the 
 perhaps in an awareness and reactionary way.
 
 The interesting thing about conway's game of life and cellular automata in general is the vast and
-dramatic complexity that arises from the applicatino of the simple rules and the absolute, finite
+dramatic complexity that arises from the application of the simple rules and the absolute, finite
 lockstep that moves the board forward. I love this, but I want to see how I can introduce rules that
 can be changed in the course of the game, or set up a situation that approximates the rules but
 isn't based on rules at all, so that it can meander through the universe.
